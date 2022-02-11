@@ -1,3 +1,5 @@
+title: EastboundAndClown
+description: Sound commands for subscribers!
 remote_theme: "etcadinfinitum/mixtape"
 plugins:
   - jekyll-remote-theme
