@@ -1,4 +1,10 @@
 # Sound Commands
+## Community
+`!cool`
+
+"cool. cool cool cool." - Abed
+
+
 ## Always Sunny
 `!themeans`
 
