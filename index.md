@@ -1,30 +1,56 @@
-## Sound Commands
-### Always Sunny
-`!themeans`: "... to allow SPIDERS to talk with CATS!" - Charlie
+# Sound Commands
+## Always Sunny
+`!themeans`
 
-`!quiteweary`: "...I have grown quite weary" - Charlie
+"... to allow SPIDERS to talk with CATS!" - Charlie
 
-`!wildcard` - "Wildcard, BITCHES!" - Charlie
+`!quiteweary`
 
-`!mytools`: "TOOLS! TOOLS! ..." - Dennis
+"...I have grown quite weary" - Charlie
 
-`!firstblood` - "THEY. DREW. FIRST. BLOOD - Frank
+`!wildcard` 
 
-`!goforit` - "oooooh, go for it go for it" - Frank
+"Wildcard, BITCHES!" - Charlie
 
-`!bug` - "BUG!" - Dee
+`!mytools`
+
+"TOOLS! TOOLS! ..." - Dennis
+
+`!firstblood`
+
+"THEY. DREW. FIRST. BLOOD - Frank
+
+`!goforit`
+
+"oooooh, go for it go for it" - Frank
+
+`!bug`
+
+"BUG!" - Dee
 
 
 
-### Workaholics
-`!zetajones`: "She dips beneath the lasers" - Adam
+## Workaholics
+`!zetajones`
 
-`!lookinggood`: "Let's go boys! Looking swole, looking good! - Adam
+"She dips beneath the lasers" - Adam
 
-`!rip`: "I'm ready to RIIIIIP!" - Adam
+`!lookinggood`
 
-`!bigbite`: "That's a really big first bite!" - Ders
+"Let's go boys! Looking swole, looking good! - Adam
 
-`!checkplease` - "Can a MF get the cheque, please?!" - Ders
+`!rip`
 
-`!bigbite` - "That's a really big first bite!" - Ders
+"I'm ready to RIIIIIP!" - Adam
+
+`!bigbite`
+
+"That's a really big first bite!" - Ders
+
+`!checkplease`
+
+"Can a MF get the cheque, please?!" - Ders
+
+`!bigbite`
+
+"That's a really big first bite!" - Ders
