@@ -1,1 +1,3 @@
 remote_theme: "etcadinfinitum/mixtape"
+plugins:
+  - jekyll-remote-theme
