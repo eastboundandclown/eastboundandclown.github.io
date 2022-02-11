@@ -18,6 +18,14 @@
 
 "Wildcard, BITCHES!" - Charlie
 
+`!gofyourself`
+
+[charlie singing]
+
+`!spider`
+
+"There is a spider... spider..." - Charlie
+
 `!mytools`
 
 "TOOLS! TOOLS! ..." - Dennis
