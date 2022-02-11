@@ -3,3 +3,10 @@ description: Sound commands for subscribers!
 remote_theme: "etcadinfinitum/mixtape"
 plugins:
   - jekyll-remote-theme
+nav_links:
+  - url: https://twitch.tv/eastboundandclown
+    name: Twitch
+  - url: https://instagram.com/eastboundandclown
+    name: Insta
+  - url: https://streamelements.com/eastboundandclown/tip
+    name: Support
