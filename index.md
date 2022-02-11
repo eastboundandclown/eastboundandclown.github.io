@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Sound Commands
+### Always Sunny
+`!themeans`: "... to allow SPIDERS to talk with CATS!" - Charlie
 
-You can use the [editor on GitHub](https://github.com/eastboundandclown/eastboundandclown.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+`!quiteweary`: "...I have grown quite weary" - Charlie
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+`!wildcard` - "Wildcard, BITCHES!" - Charlie
 
-### Markdown
+`!mytools`: "TOOLS! TOOLS! ..." - Dennis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+`!firstblood` - "THEY. DREW. FIRST. BLOOD - Frank
 
-```markdown
-Syntax highlighted code block
+`!goforit` - "oooooh, go for it go for it" - Frank
 
-# Header 1
-## Header 2
-### Header 3
+`!bug` - "BUG!" - Dee
 
-- Bulleted
-- List
+### Workaholics
+`!zetajones`: "She dips beneath the lasers" - Adam
 
-1. Numbered
-2. List
+`!lookinggood`: "Let's go boys! Looking swole, looking good! - Adam
 
-**Bold** and _Italic_ and `Code` text
+`!rip`: "I'm ready to RIIIIIP!" - Adam
 
-[Link](url) and ![Image](src)
-```
+`!bigbite`: "That's a really big first bite!" - Ders
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+`!checkplease` - "Can a MF get the cheque, please?!" - Ders
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eastboundandclown/eastboundandclown.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+`!bigbite` - "That's a really big first bite!" - Ders
